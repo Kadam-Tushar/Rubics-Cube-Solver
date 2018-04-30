@@ -25,12 +25,17 @@ If we map these 6 different moves with numbers and generate all the combinations
 For eg
 if we map numbers with moves like this-
 
-**0-L
-1-R
-2-U
-3-D
-4-F
-5-B**
+**0-L**
+
+**1-R**
+
+**2-U**
+
+**3-D**
+
+**4-F**
+
+**5-B**
 
 
 then **01** will correspond to **LR** move while **5411** will correspond to **BFRR** move.
@@ -81,7 +86,6 @@ for eg input can be .
 
 Program will take input cube by taking first Front Face input with  following colours.
 
-'
 **Orange Orange**
 
 **Green  Green**
